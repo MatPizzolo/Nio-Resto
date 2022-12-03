@@ -13,7 +13,7 @@
     <br />
     <br />
     <br />
-    <a href="https://sabujcha-landing-ecom-mp.netlify.app" target="_blank">View Demo</a>
+    <a href="https://peppy-lollipop-508c19.netlify.app/" target="_blank">View Demo</a>
   </p>
 </div>
 
