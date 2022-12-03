@@ -3,15 +3,13 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="./src/assets/imgs/leaf.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/MatPizzolo/Nio-Resto">
+    <img src="./src/assets/imgs/noodles.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Nio Restaurant Landing</h3>
 
   <p align="center">
-    A landing page for a restaurant using Isaac design
-    <a href="https://sabujcha-landing-ecom-mp.netlify.app" target="_blank">View Isaac Figma UI</a>
     <br />
     <br />
     <br />
@@ -52,7 +50,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<!-- <p> This is a project I made to ..</p> -->
+<p>A landing page for a restaurant using Isaac design
+    <a href="https://sabujcha-landing-ecom-mp.netlify.app" target="_blank">View Isaac Figma UI</a></p>
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -103,7 +102,7 @@
 
 Mateo Pizzolo - matpizzolo@gmail.com
 
-Project Link: [https://github.com/MatPizzolo/sabujcha_landing](https://github.com/MatPizzolo/sabujcha_landing)
+Project Link: [https://github.com/MatPizzolo/Nio-Resto](https://github.com/MatPizzolo/Nio-Resto)
 
 
 
