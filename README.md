@@ -66,7 +66,7 @@
 * [![Css][Css.com]][Css-url]
 * [![JS][Js]][Js-url]
 * [![React][React.js]][React-url]
-* [![Gatsby][Gatsby.com]][Gatsby-url]
+* [![MaterialUi][MaterialUi.com]][MaterialUi-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -121,4 +121,5 @@ Project Link: [https://github.com/MatPizzolo/Nio-Resto](https://github.com/MatPi
 [HTML-url]: https://reactjs.org/
 [JS]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 [JS-url]: https://reactjs.org/
-
+[MaterialUi.com]:  https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white
+[MaterialUi-url]: https://reactjs.org/
