@@ -51,7 +51,7 @@
 ## About The Project
 
 <p>A landing page for a restaurant using Isaac design
-    <a href="https://sabujcha-landing-ecom-mp.netlify.app" target="_blank">View Isaac Figma UI</a></p>
+    <a href="https://www.figma.com/file/vdBgdkiPFL5TEdWr4Av0L3/Restaurant-website-Landing-Page-Design-(Community)?node-id=0%3A1&t=PP8vTOhBoG9rnaau-3" target="_blank">View Isaac Figma UI</a></p>
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
