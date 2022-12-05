@@ -8,6 +8,8 @@ import MKTypography from "components/MKTypography";
 import CircularBox from "commons/CircularBox";
 import { Grid } from "@mui/material";
 
+import panSvg from "assets/imgs/backgroundSpices/panEggBacon.svg";
+
 const Footer = () => {
   const { generalInfo } = footerInfo;
   const { openingHours } = generalInfo;
@@ -21,7 +23,18 @@ const Footer = () => {
           flexDirection: { xs: "column", md: "row" },
           textAlign: { xs: "center", md: "left" },
         }}
+        position="relative"
       >
+        <MKBox
+          component="img"
+          src={panSvg}
+          position="absolute"
+          top="-30%"
+          right="10%"
+          sx={{
+            transform: "rotate(-65deg)",
+          }}
+        />
         <MKBox sx={{ width: { sx: "100%", md: "35%" } }}>
           <MKBox component="img" src={generalInfo.logo} maxWidth="55px" />
           <MKTypography variant="h6" color="text">

@@ -10,6 +10,8 @@ const ReviewCard = ({ image, description, name, position }) => {
       padding="5%"
       position="relative"
       sx={{ borderRadius: "70px 15px 70px 15px" }}
+      zIndex="1"
+      mx="auto  "
     >
       <MKBox
         component="img"

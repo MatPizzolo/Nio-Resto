@@ -4,7 +4,7 @@ import React from "react";
 
 const Dish = ({ title, description, image }) => {
   return (
-    <MKBox textAlign="center">
+    <MKBox textAlign="center" zIndex="1">
       <MKBox component="img" src={image} position="relative" top="120px"/>
       <MKBox
         backgroundColor="#fff!important"

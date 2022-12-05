@@ -1,0 +1,23 @@
+.slick-slider {
+    z-index: 1;
+}
+
+.slick-slide > div {
+    display: grid;
+    place-items: center;
+    width: "80%";
+    margin: auto;
+    padding: 0px;
+}
+
+.slick-dots {
+    bottom: -45px;
+}
+
+.slick-active > button::before {
+    color: #EA6D27 !important;
+}
+
+.slick-active > button::after {
+    color: #000 !important;
+}

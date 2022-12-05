@@ -26,7 +26,7 @@ export default {
   },
 
   text: {
-    main: "#7b809a",
+    main: "#5C6574",
     focus: "#7b809a",
   },
 

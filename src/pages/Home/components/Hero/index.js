@@ -10,14 +10,14 @@ import CircularBox from "commons/CircularBox";
 import { footerInfo } from "../Footer/footerInfo";
 
 import imgHero from "assets/imgs/bigHero.svg";
-import circlesLine from "assets/imgs/hero/circlesLine.svg";
-import leaveOne from "assets/imgs/hero/leave1.svg";
-import leaveTwo from "assets/imgs/hero/leave2.svg";
-import leaveThree from "assets/imgs/hero/leave3.svg";
+import circlesLine from "assets/imgs/backgroundSpices/circlesLine.svg";
+import leaveOne from "assets/imgs/backgroundSpices/leave1.svg";
+import leaveTwo from "assets/imgs/backgroundSpices/leave2.svg";
+import leaveThree from "assets/imgs/backgroundSpices/leave3.svg";
 
 const Hero = () => {
   return (
-    <MKBox display="relative" pt={6}>
+    <MKBox display="relative" py={6}>
       <MKBox
         component="img"
         src={circlesLine}
@@ -34,7 +34,7 @@ const Hero = () => {
         justifyContent="space-between"
         sx={{ padding: { xs: "0 2rem", md: "0 5rem" } }}
       >
-        <MKBox sx={{width: {xs: "100%", md: "50%"}}}>
+        <MKBox sx={{ width: { xs: "100%", md: "50%" } }}>
           <MKTypography variant="h1">
             We provide the <br />
             best food for you
@@ -73,7 +73,7 @@ const Hero = () => {
           alignContent="center"
           justifyContent="center"
           position="relative"
-          sx={{display: {xs: "none", md: "flex"}}}
+          sx={{ display: { xs: "none", md: "flex" } }}
         >
           <MKBox
             maxWidth="100%"

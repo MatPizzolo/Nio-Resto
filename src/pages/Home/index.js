@@ -11,7 +11,7 @@ import Footer from './components/Footer'
 
 const Home = () => {
   return (
-    <>
+    <MKBox overflow="hidden">
         <Navbar />
         <Hero />
         <Specials />
@@ -19,7 +19,7 @@ const Home = () => {
         <Reviews />
         <Subscribe />
         <Footer />
-    </>
+    </MKBox>
   )
 }
 
