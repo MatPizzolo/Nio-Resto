@@ -14,8 +14,15 @@ const Footer = () => {
 
   return (
     <MKBox my={18} sx={{ padding: { xs: "0 2rem", md: "0 5rem" } }}>
-      <MKBox display="flex" justifyContent="space-between">
-        <MKBox width="35%">
+      <MKBox
+        display="flex"
+        justifyContent="space-between"
+        sx={{
+          flexDirection: { xs: "column", md: "row" },
+          textAlign: { xs: "center", md: "left" },
+        }}
+      >
+        <MKBox sx={{ width: { sx: "100%", md: "35%" } }}>
           <MKBox component="img" src={generalInfo.logo} maxWidth="55px" />
           <MKTypography variant="h6" color="text">
             {generalInfo.description}
@@ -24,7 +31,14 @@ const Footer = () => {
             <MKTypography my={3} variant="h6" textTransform="uppercase">
               <strong>opening hours</strong>
             </MKTypography>
-            <Grid display="flex" justifyContent="space-between">
+            <Grid
+              display="flex"
+              justifyContent="space-between"
+              sx={{
+                flexDirection: { xs: "column", md: "row" },
+                textAlign: { xs: "center", md: "left" },
+              }}
+            >
               <Grid>
                 <MKTypography variant="h6" color="text">
                   Monday - Friday
@@ -90,7 +104,7 @@ const Footer = () => {
           <MKTypography variant="h6" textTransform="uppercase">
             <strong>Follow us</strong>
           </MKTypography>
-          <MKBox mt={6} display="flex">
+          <MKBox mt={6} display="flex" justifyContent="center">
             {footerInfo.socials.map((social, i) => {
               return (
                 <React.Fragment key={i}>

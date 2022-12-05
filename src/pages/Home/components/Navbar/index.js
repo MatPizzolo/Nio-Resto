@@ -15,7 +15,7 @@ const Navbar = () => {
         <Grid item width="25%" >
             <MKBox component="img" src={logoImg} height="55px"/>
         </Grid>
-        <Grid item display="flex" justifyContent="space-between" width="50%" m="auto">
+        <Grid item justifyContent="space-between" width="50%" m="auto" sx={{display: {xs: "none", md: "flex"}}}>
             <MKTypography variant="h5">Menu</MKTypography>
             <MKTypography variant="h5">Events</MKTypography>
             <MKTypography variant="h5">Gallery</MKTypography>

@@ -19,7 +19,8 @@ const Reviews = () => {
             return (<ReviewCard image={review.image} description={review.description} name={review.name} position={review.position} />)
         })}
         <MKBox mb={6}/>
-        tres puntitos
+          // create a dotted line here 
+          
         <MKBox pb={6}/>
     </MKBox>
   );
