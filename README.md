@@ -50,23 +50,18 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+### Built With
+
+* [![HTML][HTML]][HTML-url]
+ [![Css][Css.com]][Css-url]
+* [![JS][Js]][Js-url]
+ [![React][React.js]][React-url]
+ [![MaterialUi][MaterialUi.com]][MaterialUi-url]
+
 <p>A landing page for a restaurant using Isaac design
     <a href="https://www.figma.com/file/vdBgdkiPFL5TEdWr4Av0L3/Restaurant-website-Landing-Page-Design-(Community)?node-id=0%3A1&t=PP8vTOhBoG9rnaau-3" target="_blank">View Isaac Figma UI</a></p>
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-### Built With
-
-* [![HTML][HTML]][HTML-url]
-* [![Css][Css.com]][Css-url]
-* [![JS][Js]][Js-url]
-* [![React][React.js]][React-url]
-* [![MaterialUi][MaterialUi.com]][MaterialUi-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
