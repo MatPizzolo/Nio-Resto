@@ -49,7 +49,9 @@
 
 <!-- CONTACT -->
 ## Contacto
+
 Mateo Pizzolo - matpizzolo@gmail.com
+
 Enlace del Proyecto: [https://github.com/MatPizzolo/Nio-Resto](https://github.com/MatPizzolo/Nio-Resto)
 
 <!-- MARKDOWN LINKS & IMAGES -->
