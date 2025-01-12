@@ -4,7 +4,7 @@
   <a href="https://github.com/MatPizzolo/Nio-Resto">
     <img src="./src/assets/imgs/noodles.png" alt="Logo" width="80" height="80">
   </a>
-<h3 align="center">Página de Aterrizaje Restaurante Nio</h3>
+<h3 align="center">Nio Landing</h3>
 
   
   <p align="center">
