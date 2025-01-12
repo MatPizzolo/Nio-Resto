@@ -6,6 +6,7 @@
   </a>
 <h3 align="center">Nio Landing</h3>
 
+  [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/MatPizzolo/Nio-Resto/blob/main/README.en.md)
   
   <p align="center">
     <br />
